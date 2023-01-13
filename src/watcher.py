@@ -30,7 +30,7 @@ class Watcher:
         self.watchlist.append(userid)
 
         username = self.ul.fetch_username(client, userid)
-        await mes.channel.send(f"{username} додано до списку відстежування. :spy:")
+        await mes.channel.send(f"{username} додано до списку відстеження. :spy:")
 
     async def unwatch_user(self, mes: discord.Message, _):
         userid = self.ul.parse_id(mes)
