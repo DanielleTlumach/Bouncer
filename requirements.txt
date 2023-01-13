@@ -1,0 +1,4 @@
+humanize==4.4.0
+matplotlib==3.6.2
+numpy==1.24.1
+discord==2.1.0

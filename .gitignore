@@ -1,0 +1,15 @@
+# Private files
+config.json
+**/private/*
+*.db
+
+# Editor files
+*.swp
+*.code-workspace
+**/.devcontainer/*
+.idea
+
+# Other junk
+.DS_Store
+__pycache__
+*.whl
