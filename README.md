@@ -8,7 +8,7 @@ A Discord moderation bot to keep track of the bad eggs | Бот для моде�
 [Першотвір](https://github.com/aquova/bouncer/) - aquova, 2018-2023
 <br>[Original](https://github.com/aquova/bouncer/) by aquova, et. al, 2018-2023
 
-https://github.com/ChulkyBow/Bouncer
+https://github.com/DanielleTlumach/Bouncer
 
 https://discord.gg/t4VWq3mGxa
 
