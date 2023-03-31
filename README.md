@@ -2,8 +2,8 @@
 
 A Discord moderation bot to keep track of the bad eggs | Бот для модерації Discord серверів та стеження за неслухняними дупцями
 
-Творець - daniellatlumcah, серпень 2022-2023
-<br>Written by daniellatlumcah, August 2022-2023
+Творець - daniellatlumach, серпень 2022-2023
+<br>Written by daniellatlumach, August 2022-2023
 
 [Першотвір](https://github.com/aquova/bouncer/) - aquova, 2018-2023
 <br>[Original](https://github.com/aquova/bouncer/) by aquova, et. al, 2018-2023
